@@ -28,7 +28,7 @@ becoming an effective contributor.
 
 The following items will be discussed in this document :
 
-* [Contributing Documentation Changes](#Contributing+Documentation+Changes)
+* [Contributing Documentation Changes](#contributing-documentation-changes)
 * [Contributing code changes](#Contributing+code+changes)
   * [Before creating a Pull Request](#Before+creating+a+Pull+Request)
   * [Creating a Pull Request](#Creating+a+Pull+Request)
